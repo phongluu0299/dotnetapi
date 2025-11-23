@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using System.Data.Common;
 
-namespace Eoffice.Data.Helper
+namespace netCoreApi.Helpers
 {
     public static class SqlQueryExtensions
     {
