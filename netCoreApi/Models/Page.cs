@@ -6,7 +6,6 @@ namespace netCoreApi.Models;
 
 public partial class Page
 {
-    [Key]
     public int PageId { get; set; }
 
     public int Parent { get; set; }
@@ -29,11 +28,11 @@ public partial class Page
 
     public int Sort { get; set; }
 
-    public decimal? UserCreated { get; set; }
+    public long? UserCreated { get; set; }
 
     public DateTime? DateCreated { get; set; }
 
-    public decimal? UserModified { get; set; }
+    public long? UserModified { get; set; }
 
     public DateTime? DateModified { get; set; }
 }

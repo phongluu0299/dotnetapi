@@ -23,11 +23,11 @@ public partial class User
 
     public string? MainDeviceId { get; set; }
 
-    public decimal? UserCreated { get; set; }
+    public long? UserCreated { get; set; }
 
     public DateTime? DateCreated { get; set; }
 
-    public decimal? UserModified { get; set; }
+    public long? UserModified { get; set; }
 
     public DateTime? DateModified { get; set; }
 }

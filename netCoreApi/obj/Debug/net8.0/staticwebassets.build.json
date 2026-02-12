@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "7MvMHfpciWdwr65pENWdxxHxafFHlkbff4NwieeMfuE=",
+  "Hash": "dtbWdM+u8JoYHctw2mo0AUvDhqaQqpJzOMypc1vIHkY=",
   "Source": "netCoreApi",
   "BasePath": "_content/netCoreApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }
